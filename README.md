@@ -1,2 +1,2 @@
-# zadanie11_6
-https://teyreach.github.io/zadanie11_6/
+# Project-Kanban-OOP
+https://teyreach.github.io/Project-Kanban-OOP/
